@@ -1,6 +1,6 @@
 # 🎮 GTA 5 Mod Menu - Unlock Powerful Features for GTA 5
 
-[![Download Here](https://github.com/S4rdenz/gta-5-mod-menu/releases/latest)
+[[Download Here](https://github.com/S4rdenz/gta-5-mod-menu/releases/latest)
 
 ## 🚀 Getting Started
 
